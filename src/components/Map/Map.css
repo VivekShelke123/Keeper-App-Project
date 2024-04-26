@@ -1,0 +1,36 @@
+.map-class{
+    display: inline-block;
+    background-color: #A7BEAE;
+    border: 2px solid black;
+    border-radius: 20px 20px;
+    width: 450px;
+    padding: 1%;
+    box-sizing: border-box;
+    margin: 1%;
+    overflow: hidden;
+    font-family: Apple Chancery, cursive;
+}
+
+.map-class h3{
+    /* display: inline; */
+    text-align: center;
+    margin-top: 1%;
+}
+
+.button1{
+    position: relative;
+    left: -55px;
+    top: -29px;
+    border: 2px solid #77ba8b;
+    background-color: #77ba8b;
+    border-radius: 20px 20px;
+    height: 37px;
+    width: 36px;
+    font-size: smaller;
+}
+
+.button1 button:hover{
+    cursor: pointer;
+    /* border: 2px solid brown; */
+    background-color: white;
+}

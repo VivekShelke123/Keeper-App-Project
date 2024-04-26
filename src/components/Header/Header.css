@@ -1,0 +1,16 @@
+.Header-bg {
+    background-color: #E7E8D1;
+    border: 2px solid transparent;
+    border-radius: 10px 10px;
+    width: 1250px;
+    
+    
+}
+
+.Header-bg p{
+    font-size: x-large;
+    margin: 1%;
+    display: flex;
+    justify-content: center;
+    font-family: Apple Chancery, cursive;
+}

@@ -1,0 +1,11 @@
+input[type = text]{
+    outline: none;
+    background-color: #A7BEAE;
+    border: none;
+    border-bottom: 2px black solid;
+    width: 370px;
+    height: 25px;
+    margin: 8px;
+    font-family: Apple Chancery, cursive;
+    font-size: large;
+}

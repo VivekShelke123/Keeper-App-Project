@@ -1,0 +1,30 @@
+.input{
+    background-color: #A7BEAE;
+    border: 2px solid black;
+    border-radius: 20px 20px;
+    width: 420px;
+    height: 120px;
+    padding: 1%;
+    margin-left: 33%;
+    margin-top: 1%;
+    /* box-sizing: border-box; */
+    
+}
+
+.input button{
+    position: relative;
+    left: 390px;
+    top: 5px;
+    border: 2px solid #77ba8b;
+    background-color: #77ba8b;
+    border-radius: 20px 20px;
+    height: 37px;
+    width: 39px;
+    font-size: larger;
+}
+
+button:hover{
+    cursor: pointer;
+    /* border: 2px solid brown; */
+    background-color: white;
+}
